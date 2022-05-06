@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Shop - MagicMeat</title>
+	<atom:link href="/shop-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Order meat Online.</description>
+	<lastBuildDate>Thu, 24 Feb 2022 04:28:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://i0.wp.com/magicmeat.in/wp-content/uploads/2021/05/cropped-PicsArt_05-11-09.07.49-e1620804256520.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Shop - MagicMeat</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192942621</site>	<item>
+		<title>Capsicum &#8211; Green</title>
+		<link>/product/capsicum-green/</link>
+					<comments>/product/capsicum-green/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 04:25:59 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=5270</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/capsicum-green/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5270</post-id>	</item>
+		<item>
+		<title>sweet potato</title>
+		<link>/product/sweet-potato/</link>
+					<comments>/product/sweet-potato/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 04:11:24 +0000</pubDate>
+				<guid isPermaLink="false">/product/sweet-potato/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/sweet-potato/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5266</post-id>	</item>
+		<item>
+		<title>Red onion</title>
+		<link>/product/red-onion-2/</link>
+					<comments>/product/red-onion-2/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Wed, 23 Feb 2022 06:21:26 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=5250</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/red-onion-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5250</post-id>	</item>
+		<item>
+		<title>chicken roast (1 peace)</title>
+		<link>/product/chicken-roast-1-peace/</link>
+					<comments>/product/chicken-roast-1-peace/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 05:40:14 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3746</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/chicken-roast-1-peace/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3746</post-id>	</item>
+		<item>
+		<title>Chicken Biryani (Ruksar)</title>
+		<link>/product/chicken-biryani-ruksar/</link>
+					<comments>/product/chicken-biryani-ruksar/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Fri, 11 Jun 2021 10:57:49 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3588</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/chicken-biryani-ruksar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3588</post-id>	</item>
+		<item>
+		<title>Chicken Gizzard (250g)</title>
+		<link>/product/chicken-gizzard-250g/</link>
+					<comments>/product/chicken-gizzard-250g/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Fri, 28 May 2021 06:26:45 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3222</guid>
+
+					<description><![CDATA[<p>Chicken gizzards are nutritious and delicious, and bring depth of flavour to broths, soups and stews.</p>
+<p>The post <a href="/shop-2/">Shop</a> first appeared on <a href="/">MagicMeat</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Chicken gizzards are nutritious and delicious, and bring depth of flavour to broths, soups and stews.</p><p>The post <a href="/shop-2/">Shop</a> first appeared on <a href="/">MagicMeat</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/product/chicken-gizzard-250g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3222</post-id>	</item>
+		<item>
+		<title>Chicken Neck (500 gms )</title>
+		<link>/product/chicken-neck-500-gms/</link>
+					<comments>/product/chicken-neck-500-gms/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Fri, 28 May 2021 06:19:20 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3219</guid>
+
+					<description><![CDATA[<p>Just boil and relish. Ideal for making chicken broth and soup.</p>
+<p>The post <a href="/shop-2/">Shop</a> first appeared on <a href="/">MagicMeat</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Just boil and relish. Ideal for making chicken broth and soup.</p><p>The post <a href="/shop-2/">Shop</a> first appeared on <a href="/">MagicMeat</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/product/chicken-neck-500-gms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3219</post-id>	</item>
+		<item>
+		<title>Chicken Breast – with Bone (500g)</title>
+		<link>/product/chicken-breast-with-bone-500g/</link>
+					<comments>/product/chicken-breast-with-bone-500g/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Fri, 28 May 2021 06:15:55 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3216</guid>
+
+					<description><![CDATA[<p>Chicken breast is not only tasty and good for health, but also it is packed with nutrition which makes it</p>
+<p>The post <a href="/shop-2/">Shop</a> first appeared on <a href="/">MagicMeat</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Chicken breast is not only tasty and good for health, but also it is packed with nutrition which makes it all the more desired.</p><p>The post <a href="/shop-2/">Shop</a> first appeared on <a href="/">MagicMeat</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/product/chicken-breast-with-bone-500g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3216</post-id>	</item>
+		<item>
+		<title>Chicken Boneless – Cubes (500g)</title>
+		<link>/product/chicken-boneless-cubes-500g/</link>
+					<comments>/product/chicken-boneless-cubes-500g/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Fri, 28 May 2021 06:08:07 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3211</guid>
+
+					<description><![CDATA[<p>500 gms Chicken Curry Cut &#124; 100% Farm Fresh No Preservatives Chicken Curry Cut is by far the most popular</p>
+<p>The post <a href="/shop-2/">Shop</a> first appeared on <a href="/">MagicMeat</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>500 gms Chicken Curry Cut | 100% Farm Fresh No Preservatives Chicken Curry Cut is by far the most popular form of meat cut for every Indian household.</p><p>The post <a href="/shop-2/">Shop</a> first appeared on <a href="/">MagicMeat</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/product/chicken-boneless-cubes-500g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3211</post-id>	</item>
+		<item>
+		<title>Chicken Whole- Skinless (1~1.4 kg)</title>
+		<link>/product/chicken-whole-skinless-11-4-kg/</link>
+					<comments>/product/chicken-whole-skinless-11-4-kg/#respond</comments>
+		
+		<dc:creator><![CDATA[mehulkumar7525]]></dc:creator>
+		<pubDate>Fri, 28 May 2021 06:05:53 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3208</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/chicken-whole-skinless-11-4-kg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3208</post-id>	</item>
+	</channel>
+</rss>
